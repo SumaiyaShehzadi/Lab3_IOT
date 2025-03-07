@@ -40,7 +40,7 @@ def debounce_callback(timer):
     debounce_timer = None
 
 # Attach the interrupt to the button's rising edge
-button.irq(trigger=Pin.IRQ_FALLING, handler=button_pressed)
+#button.irq(trigger=Pin.IRQ_FALLING, handler=button_pressed)
 
 
 

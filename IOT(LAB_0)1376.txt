@@ -1,5 +1,0 @@
-task 0:
-https://github.com/SumaiyaShehzadi/Test_0.git
-
-task 1:
-https://github.com/SumaiyaShehzadi/-IOT-.git
